@@ -1,4 +1,4 @@
-
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local Window = OrionLib:MakeWindow({Name = "Sina Hub|[💰Button Simulator Regular💰] ", HidePremium = false, IntroText = "Sina Hub", SaveConfig = true, ConfigFolder = "OrionTest"})
 
